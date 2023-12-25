@@ -55,6 +55,14 @@ minWidth = 200
 
 
 [[section]]
+title = "2023 W49-W50"
+text = "<p> I pushed Kentmere 400 to 1600. I also took indoor photos for the first time - but I messed up in a lot of places where I forgot the lightmeter app gives an average reading, so most of the faces are too dark and also there are a lot of blacks (wonder if it is from pushing or from bad metering).</p><br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC FA 1:4-5.6 35-80mm</p><p>Film stock: Kentmere 400</p><p>Developer: D76 (stock) for 20 minutes (+2 Push - i.e., Shot as ISO 1600) at 20°C</p>"
+slug = "2023w49w50"
+folder = "./content/2023w49w50/"
+ascending = true
+
+
+[[section]]
 title = "2023 W48-W49"
 text = "<p>I experimented with pushing film for the first time. This made shooting in low/difficult light conditions a bit easier. I have seen experiments where people pushed Kentmere400 to 1600, but I think this will be the most I'll push this film.</p><p>Most of my images are in the 1/15-1/60 shutter speed range, resulting in a blurry or non-sharp look that I don't like in most cases, but it works for certain images here (I think).</p><p>When developing, I skipped the wetting agent and just gave it a distilled water bath in the end, but I still ended up with some water droplet marks. So, I gave it another wash with Ilfotol.</p><br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC FA 1:4-5.6 35-80mm</p><p>Film stock: Kentmere 400</p><p>Developer: D76 (1+1) for 17 minutes (+1 Push - i.e., Shot as ISO 800) at 20°C</p>"
 slug = "2023w48w49"
