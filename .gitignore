@@ -3,3 +3,4 @@ build
 content/*/*.jpg
 content/*/*.sh
 .foto
+.env

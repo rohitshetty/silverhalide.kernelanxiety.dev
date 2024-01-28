@@ -220,3 +220,13 @@ belgaum_2023w45:
 
 2023w51w52:
   folder: s3://rohit-images/web/2024-01-01_P30T_DoubleX@1600_D96_2023W51-52/
+
+
+2024w01:
+  folder: s3://rohit-images/web/2024-01-14_K1000_DoubleX@200_D96_2024W01/
+
+2024w02w03:
+  folder: s3://rohit-images/web/2024-01-20_P30T_K400@800_D76_2024W02W03/
+
+2024w04:
+  folder: s3://rohit-images/web/2024-01-27_P30T_Fomapan400@320_D76_11_2024W04/

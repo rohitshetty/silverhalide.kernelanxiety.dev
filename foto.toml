@@ -53,10 +53,37 @@ minWidth = 200
 #     ascending = false
 # Photo sections are added in the order encountered.
 
+[[section]]
+title="2024 W04"
+text="</br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC 50mm 1.4</p><p>Film stock: Fomapan 400</p><p>Shot at 320 and Pushed to: 500</p><p>Developer: D-76 (1+1) for 14 minutes 20 seconds at 20°C</p>"
+
+slug="2024w04"
+folder="./content/2024w04"
+ascending=true
+
+
+[[section]]
+title="2024 W02-W03"
+text="</br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC 50mm 1.4</p><p>Film stock: Kentmere 400</p><p>Pushed to: 800</p><p>Developer: D-76 (stock) for 12 minutes 30 seconds at 20°C</p>"
+
+slug="2024w02w03"
+folder="./content/2024w02w03"
+ascending=true
+
+
+[[section]]
+title="2024 W01"
+text="<a href='https://blog.kernelanxiety.dev/post/updated-silverhalide-with-2024w01/'> Click to read more </a> <p></p></br><p>Camera: Pentax K1000</p><p>Lens: Pentax SMC 50mm 1.4 & Pentax SMC FA 1:4-5.6 35-80mm</p><p>Film stock: Eastman 5222 aka Double X</p><p>Developer: D-96 (stock) for 5 minutes 50 seconds at 20°C</p>"
+
+
+slug="2024w01"
+folder = "./content/2024w01"
+ascending = true
+
 
 [[section]]
 title = "2023 W51-W52"
-text = "<p>I shot and developed my first roll of Eastman 5222, also known as Double X.</p></br><p>Eastman 5222 was a film stock originally designed to be used with cine cameras. The affective \"feel\" of films such as Steven Spielberg's \"Schindler's List\", Martin Scorsese's \"Raging Bull\", and Robert Eggers's \"The Lighthouse\" can in part be attributed to the use of this film.</p></br><p>This is respooled and sold as <i>Tollygrunge</i> by congelatamomento.com, a tribute to the OG film industry of India, based originally in Tollygunge, Kolkata.</p></br><p>Double X has a native speed of 200/250, I pushed it to 1600.</p></br><p>Kodak recommends D-96 as a developer. I home brewed D96 following the recipe from the Kodak data sheet.</p></br><p>I Developed it in D-96 for 25 minutes at 20C and fixed it with F24.</p></br><p> Digitized with DSLR + makeshift setup.</p></br><p>I like the feel of this film, but I think I'll need more discipline with this film on how I meter it. Lot of these images are \"fried\"</p><p>I use an Android app light meter, so that does add to my problem, especially when I'm on the streets. I have another roll I'm shooting right now, at box speed - let's see how it comes out.</p></br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC FA 1:4-5.6 35-80mm</p><p>Film stock: Kentmere 400</p><p>Developer: D76 (stock) for 20 minutes (+3 Push - i.e., Shot as ISO 1600) at 20°C</p>"
+text = "<p>I shot and developed my first roll of Eastman 5222, also known as Double X.</p></br><p>Eastman 5222 was a film stock originally designed to be used with cine cameras. The affective \"feel\" of films such as Steven Spielberg's \"Schindler's List\", Martin Scorsese's \"Raging Bull\", and Robert Eggers's \"The Lighthouse\" can in part be attributed to the use of this film.</p></br><p>This is respooled and sold as <i>Tollygrunge</i> by congelatamomento.com, a tribute to the OG film industry of India, based originally in Tollygunge, Kolkata.</p></br><p>Double X has a native speed of 200/250, I pushed it to 1600.</p></br><p>Kodak recommends D-96 as a developer. I home brewed D96 following the recipe from the Kodak data sheet.</p></br><p>I Developed it in D-96 for 25 minutes at 20C and fixed it with F24.</p></br><p> Digitized with DSLR + makeshift setup.</p></br><p>I like the feel of this film, but I think I'll need more discipline with this film on how I meter it. Lot of these images are \"fried\"</p><p>I use an Android app light meter, so that does add to my problem, especially when I'm on the streets. I have another roll I'm shooting right now, at box speed - let's see how it comes out.</p></br><p>Camera: Pentax P30T</p><p>Lens: Pentax SMC FA 1:4-5.6 35-80mm</p><p>Film stock: Eastman 5222 aka Double X</p><p>Developer: D-96 (stock) for 25 minutes (+3 Push - i.e., Shot as ISO 1600) at 20°C</p>"
 
 slug = "2023w51w52"
 folder = "./content/2023w51w52"
